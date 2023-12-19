@@ -1,0 +1,21 @@
+<<<<<<< HEAD
+// Update
+db.school.update(
+    { name: "Holberton school" },
+    {$set: {
+            address: "972 Mission street"
+        }
+    },
+    {
+        multi: true
+    }
+)
+=======
+// this updates all documents with a specified name
+
+db.school.update(
+        { name: "Holberton school"},
+        { $set: {address:"972 Mission street"}},
+        {multi: true}
+        )
+>>>>>>> d89c46a6f6788846c614d5eb576a9ddd2ffaa0b0

@@ -1,7 +1,2 @@
-<<<<<<< HEAD
 // Count
 db.school.count()
-=======
-// this counts
-db.school.count()
->>>>>>> d89c46a6f6788846c614d5eb576a9ddd2ffaa0b0

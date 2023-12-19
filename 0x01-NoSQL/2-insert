@@ -1,8 +1,2 @@
-<<<<<<< HEAD
 // Insert document
 db.school.insert({ name : "Holberton school" })
-=======
-// inserts a document in the collection school
-
-db.school.insert({name: 'Holberton school'})
->>>>>>> d89c46a6f6788846c614d5eb576a9ddd2ffaa0b0

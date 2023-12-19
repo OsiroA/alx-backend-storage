@@ -1,11 +1,4 @@
-<<<<<<< HEAD
 // Delete by match
 db.school.deleteMany(
     { name: "Holberton school" }
 )
-=======
-// this deletes when a match is seen
-db.school.deleteMany(
-    { name: "Holberton school" }
-)
->>>>>>> d89c46a6f6788846c614d5eb576a9ddd2ffaa0b0

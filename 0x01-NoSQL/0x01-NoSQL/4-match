@@ -1,0 +1,8 @@
+<<<<<<< HEAD
+// All matches
+db.school.find({ name: "Holberton school" })
+=======
+//List all documents with a specific name
+
+db.school.find({"name" : "Holberton school"})
+>>>>>>> d89c46a6f6788846c614d5eb576a9ddd2ffaa0b0
